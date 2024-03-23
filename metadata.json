@@ -1,6 +1,7 @@
 {
-    "name": "Bätmän",
+    "name": "Bätmäns",
     "symbol": "BÄT",
     "description": "I'm Bätmän",
-    "image": "https://raw.githubusercontent.com/batceosol/bat/main/bat.jpg"
+    "image": "https://raw.githubusercontent.com/batceosol/bat/main/bat.jpg",
+    "external_url": "https://bät.ceo"
 }

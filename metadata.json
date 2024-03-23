@@ -3,5 +3,10 @@
     "symbol": "BÄT",
     "description": "I'm Bätmän",
     "image": "https://raw.githubusercontent.com/batceosol/bat/main/bat.jpg",
-    "external_url": "https://bät.ceo"
+    "extensions": {
+      "website": "https://bät.ceo"
+    },
+    "tags": [
+      "Meme"
+    ]
 }
